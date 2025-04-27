@@ -58,7 +58,7 @@ I'm a passionate **Software Developer** with over **3+ years of experience** spe
 ## **Contact**
 - LinkedIn: www.linkedin.com/in/pooja-gupta-09a528353
 - Email: poojaguptaa393@gmail.com
-- GitHub: [Your GitHub Username]
+- GitHub: PoojaGupta83
 
 ---
 
